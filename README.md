@@ -107,7 +107,13 @@ Instead of manually searching hundreds of jobs every day, the system automatical
 - ATS optimization
 
 ---
+## 🎥 Demo Video
 
+Watch the complete project demonstration here:
+
+▶️ **[Watch the Demo Video](https://drive.google.com/file/d/1_gIz52fSBuFkz-tAEG3VYoIU3gDjKYrl/view?usp=drive_link)**
+
+---
 # Author
 
 **Owoeye Iyanu**
