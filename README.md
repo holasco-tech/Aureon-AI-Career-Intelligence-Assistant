@@ -111,6 +111,12 @@ Instead of manually searching hundreds of jobs every day, the system automatical
 
 [▶️ Watch the Demo Video](https://github.com/holasco-tech/Aureon-AI-Career-Intelligence-Assistant/releases/tag/v1.0-demo)
 ---
+## n8n Workflow
+
+[⬇️ View or Download the Public-Safe n8n Workflow](./Aureon_AI_Job_Search_Proposal_Assistant_PUBLIC_SAFE.json)
+
+> API keys, credentials, and private account details have been removed for security.
+
 # Author
 
 **Owoeye Iyanu**
