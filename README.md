@@ -109,10 +109,7 @@ Instead of manually searching hundreds of jobs every day, the system automatical
 ---
 ## 🎥 Demo Video
 
-Watch the complete project demonstration here:
-
-▶️ **[Watch the Demo Video](https://drive.google.com/file/d/1_gIz52fSBuFkz-tAEG3VYoIU3gDjKYrl/view?usp=drive_link)**
-
+[▶️ Watch the Demo Video](https://github.com/holasco-tech/Aureon-AI-Career-Intelligence-Assistant/releases/tag/v1.0-demo)
 ---
 # Author
 
