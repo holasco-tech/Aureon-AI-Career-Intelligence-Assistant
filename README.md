@@ -63,9 +63,11 @@ Instead of manually searching hundreds of jobs every day, the system automatical
 
 # Screenshots
 
+![Complete Workflow](System Architecture.jpeg)
+
 ## Complete Workflow
 
-(Add Page 3)
+
 
 ## Opportunity Assessment
 
