@@ -107,9 +107,11 @@ Instead of manually searching hundreds of jobs every day, the system automatical
 - ATS optimization
 
 ---
-## 🎥 Demo Video
+## 🎥 Project Demo
 
-[▶️ Watch the Demo Video](https://github.com/holasco-tech/Aureon-AI-Career-Intelligence-Assistant/releases/tag/v1.0-demo)
+Watch the Aureon AI Career Intelligence Assistant in action:
+
+[▶️ Watch the Demo on YouTube](https://youtu.be/CR1HrYZtV94)
 ---
 ## n8n Workflow
 
