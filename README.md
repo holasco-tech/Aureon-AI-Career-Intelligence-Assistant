@@ -57,6 +57,12 @@ Instead of manually searching hundreds of jobs every day, the system automatical
 
 ![AI Opportunity Assessment](AI%20Opportunity%20Assessment.jpeg)
 
+### Google Sheets Career Intelligence Database
+
+![Aureon AI Career Intelligence Database](Screenshot%202026-08-13%20111510.png)
+
+The workflow stores structured job intelligence including job title, company, job link, recommendation, reason, match score, proposal data, status, and follow-up information in Google Sheets.
+
 ### Case Study
 
 [View the Aureon AI Career Intelligence Assistant Case Study](Aureon_AI_Career_Intelligence_Assistant_Case_Study.pdf)
