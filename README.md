@@ -2,25 +2,21 @@
 
 An AI-powered career automation platform that automates job discovery, opportunity assessment, eligibility analysis, proposal generation, and reporting using AI Agents.
 
----
-
-# Overview
+## Overview
 
 The Aureon AI Career Intelligence Assistant is an end-to-end automation system built with n8n, Google Gemini, Google Sheets, Gmail, and Vector Search.
 
 Instead of manually searching hundreds of jobs every day, the system automatically:
 
-• Searches for AI jobs
-• Removes duplicates
-• Evaluates job relevance
-• Checks eligibility
-• Generates personalized proposals
-• Stores results
-• Sends a daily email report
+- Searches for AI jobs
+- Removes duplicates
+- Evaluates job relevance
+- Checks eligibility
+- Generates personalized proposal drafts
+- Stores results
+- Sends a daily email report
 
----
-
-# Features
+## Features
 
 - Automated Job Discovery
 - Duplicate Detection
@@ -32,9 +28,7 @@ Instead of manually searching hundreds of jobs every day, the system automatical
 - Gmail Reporting
 - End-to-End Workflow Automation
 
----
-
-# Technology Stack
+## Technology Stack
 
 - n8n
 - Google Gemini
@@ -45,9 +39,7 @@ Instead of manually searching hundreds of jobs every day, the system automatical
 - HTTP Request
 - AI Agents
 
----
-
-# Workflow
+## Workflow
 
 1. Discover jobs
 2. Remove duplicates
@@ -55,80 +47,54 @@ Instead of manually searching hundreds of jobs every day, the system automatical
 4. Save recommended jobs
 5. Read full job description
 6. AI Eligibility Analysis
-7. Generate proposal
+7. Generate proposal draft
 8. Update database
 9. Send Gmail report
 
----
+## Portfolio Evidence
 
-# Screenshots
+### AI Opportunity Assessment
 
-![Complete Workflow](System Architecture.jpeg)
+![AI Opportunity Assessment](AI%20Opportunity%20Assessment.jpeg)
 
-## Complete Workflow
+### Case Study
 
+[View the Aureon AI Career Intelligence Assistant Case Study](Aureon_AI_Career_Intelligence_Assistant_Case_Study.pdf)
 
+### Public-Safe n8n Workflow
 
-## Opportunity Assessment
+[View or Download the Public-Safe n8n Workflow](Aureon_AI_Job_Search_Proposal_Assistant_PUBLIC_SAFE.json)
 
-(Add Page 4)
+> API keys, credentials, and private account details have been removed for security.
 
-## Eligibility Intelligence
+### Demo Video
 
-(Add Page 5)
+[Watch the Aureon AI Career Intelligence Assistant Demo](https://youtu.be/CR1HrYZtV94)
 
-## Reporting Layer
-
-(Add Page 6)
-
-## Results
-
-(Add Page 7)
-
----
-
-# Business Impact
+## Business Impact
 
 - Reduced manual job search
 - AI-powered decision making
-- Automated proposal generation
+- Automated proposal drafting
 - Structured career intelligence database
-- Faster application process
+- Faster opportunity review process
 
----
-
-# Future Roadmap
+## Future Roadmap
 
 - Multi-platform job search
 - Resume optimization
 - Interview preparation
 - AI Resume Scoring
-- LinkedIn automation
+- LinkedIn workflow support
 - ATS optimization
 
----
-## 🎥 Project Demo
+## Built By
 
-Watch the Aureon AI Career Intelligence Assistant in action:
+**Owoeye Iyanu**  
+Founder — **Aureon AI**
 
-[▶️ Watch the Demo on YouTube](https://youtu.be/CR1HrYZtV94)
----
-## n8n Workflow
+*Building Intelligent Business Systems*  
+*We Build AI Employees for Businesses.*
 
-[⬇️ View or Download the Public-Safe n8n Workflow](./Aureon_AI_Job_Search_Proposal_Assistant_PUBLIC_SAFE.json)
-
-> API keys, credentials, and private account details have been removed for security.
-
-# Author
-
-**Owoeye Iyanu**
-
-Founder — Aureon AI
-
-Mission:
-
-Building Intelligent Business Systems
-
-Email:
-
-hello.aureonai@gmail.com
+Website: https://aureonai.framer.ai  
+Email: hello.aureonai@gmail.com
