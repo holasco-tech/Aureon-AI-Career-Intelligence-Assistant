@@ -57,6 +57,10 @@ Instead of manually searching hundreds of jobs every day, the system automatical
 
 ![AI Opportunity Assessment](AI%20Opportunity%20Assessment.jpeg)
 
+### n8n Workflow / System Architecture
+
+![n8n Workflow](Screenshot%202026-08-13%20114653.png)
+
 ### Google Sheets Career Intelligence Database
 
 ![Aureon AI Career Intelligence Database](Screenshot%202026-08-13%20111510.png)
