@@ -63,6 +63,12 @@ Instead of manually searching hundreds of jobs every day, the system automatical
 
 The workflow stores structured job intelligence including job title, company, job link, recommendation, reason, match score, proposal data, status, and follow-up information in Google Sheets.
 
+### Automated Gmail Job Report
+
+![Aureon AI Daily Job Report](Screenshot%202026-08-13%20112639.png)
+
+The automation sends a structured Gmail report containing the job title, company, match score, recommendation, reasoning, and generated application details.
+
 ### Case Study
 
 [View the Aureon AI Career Intelligence Assistant Case Study](Aureon_AI_Career_Intelligence_Assistant_Case_Study.pdf)
